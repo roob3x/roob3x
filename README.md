@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently always learning about new ways to improve quality and agile testing to the team
 - 💬 Ask me about automation and testing strategy
-- ⚡ Fun fact: in my free time, i like to pratice develop mobile iOS using swiftUI framework :)
+- ⚡ Fun fact: in my free time, i like to pratice development for mobile iOS using swiftUI framework :)
 
 <div>
 <a href="https://github.com/roob3x">
