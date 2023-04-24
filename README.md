@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Roberto! 👋
+How are you felling today? 
+- 🌱 I’m currently always learning about new ways to improve quality and agile testing to the team
+- 💬 Ask me about quality and good pratices
+- ⚡ Fun fact: in my free time, i like to pratice develop mobile iOS using swiftUI framework :)
 
 <!--
 **roob3x/roob3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<a href="https://github.com/roob3x">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roob3x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roob3x&layout=compact&langs_count=7&theme=dracula"/>
+</div>
