@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there I'm Roberto! 👋</h1>
 
-- 🌱 I’m currently always learning about new ways to improve quality and agile testing to the team
+- 🌱 I’m always learning new ways to improve and provide quality to the digital products delivery
 - 💬 Ask me about automation and testing strategy
 - ⚡ Fun fact: in my free time, i like to pratice development for mobile iOS using swiftUI framework :)
 
