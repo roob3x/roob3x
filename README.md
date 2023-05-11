@@ -3,7 +3,6 @@
 
 - 🌱 I’m always learning new ways to improve and provide quality to the digital products delivery
 - 💬 Ask me about automation and testing strategy
-- ⚡ Fun fact: in my free time, i like to pratice development for mobile iOS using swiftUI framework :)
 
 <div>
 <a href="https://github.com/roob3x">
