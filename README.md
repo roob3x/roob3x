@@ -73,12 +73,59 @@
 <div>
 <h3 align="left">Cloud:</h3>
 
+<!-- AWS -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="40"/>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
+<!-- S3 -->
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="40"/>
+</a>
+
+<!-- SQS -->
+<a href="https://aws.amazon.com/sqs/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" height="40"/>
+</a>
+
+<!-- EC2 -->
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="40"/>
+</a>
+
+<!-- Lambda -->
+<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="40"/>
+</a>
+
+<!-- Elastic Beanstalk -->
+<a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Beanstalk-1AB394?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" height="40"/>
+</a>
+
+<!-- CloudWatch -->
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" height="40"/>
+</a>
+
+<!-- Secrets Manager -->
+<a href="https://aws.amazon.com/secrets-manager/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white" height="40"/>
+</a>
+
+<!-- EventBridge -->
+<a href="https://aws.amazon.com/eventbridge/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white" height="40"/>
+</a>
+
+<!-- CodeBuild -->
+<a href="https://aws.amazon.com/codebuild/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=aws-codebuild&logoColor=white" height="40"/>
+</a>
+
+<!-- CodePipeline -->
+<a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=aws-codepipeline&logoColor=white" height="40"/>
 </a>
 
 </div>
