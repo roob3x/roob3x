@@ -174,6 +174,10 @@
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.png" height="40"/>
 </a>
 
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
+</a>
+
 </div>
   
   ##
