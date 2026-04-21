@@ -118,6 +118,13 @@
   <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white" height="40"/>
 </a>
 
+</div>
+
+---
+
+<div>
+<h3 align="left">CI/CD:</h3>
+
 <!-- CodeBuild -->
 <a href="https://aws.amazon.com/codebuild/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=aws-codebuild&logoColor=white" height="40"/>
@@ -127,13 +134,6 @@
 <a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=aws-codepipeline&logoColor=white" height="40"/>
 </a>
-
-</div>
-
----
-
-<div>
-<h3 align="left">CI/CD:</h3>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
