@@ -105,7 +105,17 @@
 
 <!-- Elastic Beanstalk -->
 <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Beanstalk-1AB394?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-elastic-beanstalk.png" height="40"/>
+</a>
+
+<!-- Elastic Container Service -->
+<a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/logos/aws-ecs.png" height="40"/>
+</a>
+
+<!-- Elastic Kubernetes Service -->
+<a href="https://aws.amazon.com/eks/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/logos/aws-eks.png" height="40"/>
 </a>
 
 <!-- CloudWatch -->
