@@ -80,7 +80,7 @@
 
 <!-- S3 -->
 <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazons3" height="40"/>
 </a>
 
 <!-- SQS -->
