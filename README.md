@@ -85,7 +85,7 @@
 
 <!-- SQS -->
 <a href="https://aws.amazon.com/sqs/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-sqs.png" height="40"/>
 </a>
 
 <!-- EC2 -->
