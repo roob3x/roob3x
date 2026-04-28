@@ -142,12 +142,12 @@
 
 <!-- CodeBuild -->
 <a href="https://aws.amazon.com/codebuild/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=aws-codebuild&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-codebuild.png" height="40"/>
 </a>
 
 <!-- CodePipeline -->
 <a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=aws-codepipeline&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-codepipeline.png" height="40"/>
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
