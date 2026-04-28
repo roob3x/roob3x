@@ -98,6 +98,11 @@
   <img src="https://logo.svgcdn.com/logos/aws-lambda.png" height="40"/>
 </a>
 
+<!-- Stepfunction -->
+<a href="https://aws.amazon.com/step-functions/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/logos/aws-step-functions.png" height="40"/>
+</a>
+
 <!-- Elastic Beanstalk -->
 <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Beanstalk-1AB394?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" height="40"/>
