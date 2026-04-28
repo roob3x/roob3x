@@ -162,8 +162,8 @@
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" height="40"/>
 </a>
 
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" height="40"/>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
