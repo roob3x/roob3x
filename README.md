@@ -166,12 +166,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40"/>
 </a>
 
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
-</a>
-
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40"/>
+</a>
+
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
 </a>
 
 <a href="https://appium.io/" target="_blank" rel="noreferrer">
