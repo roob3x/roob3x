@@ -80,7 +80,7 @@
 
 <!-- S3 -->
 <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/amazons3" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-s3.png" height="40"/>
 </a>
 
 <!-- SQS -->
