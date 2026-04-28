@@ -120,17 +120,17 @@
 
 <!-- CloudWatch -->
 <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-cloudwatch.png" height="40"/>
 </a>
 
 <!-- Secrets Manager -->
 <a href="https://aws.amazon.com/secrets-manager/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-secrets-manager.png" height="40"/>
 </a>
 
 <!-- EventBridge -->
 <a href="https://aws.amazon.com/eventbridge/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-eventbridge.png" height="40"/>
 </a>
 
 </div>
