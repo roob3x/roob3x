@@ -175,7 +175,7 @@
 </a>
 
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="40"/>
 </a>
 
 </div>
