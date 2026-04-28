@@ -90,12 +90,12 @@
 
 <!-- EC2 -->
 <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-ec2.png" height="40"/>
 </a>
 
 <!-- Lambda -->
 <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws-lambda.png" height="40"/>
 </a>
 
 <!-- Elastic Beanstalk -->
