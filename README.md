@@ -75,7 +75,7 @@
 
 <!-- AWS -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/aws.png" height="40"/>
 </a>
 
 <!-- S3 -->
