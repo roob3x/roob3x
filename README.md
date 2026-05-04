@@ -177,6 +177,10 @@
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" height="40"/>
 </a>
 
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/logos/robot-framework.png" height="40"/>
+</a>
+
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40"/>
 </a>
