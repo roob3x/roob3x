@@ -178,7 +178,8 @@
 </a>
 
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" style="background-color:white; padding:5px; border-radius:6px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40"
+       style="background-color:#ffffff; padding:6px; border-radius:8px; box-shadow:0 0 3px rgba(0,0,0,0.2);"/>
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
